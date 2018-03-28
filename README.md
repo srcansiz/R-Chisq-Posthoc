@@ -4,7 +4,7 @@ This function separates the lager than 2x2 tables to 2x2 tables for each of comb
 
 # Usage:
 ```
-# table: is a frequnecy table
+# table: Frequnecy table
 fisher_posthoc(table)
 # Returns all significant (p < 0.05) relation as data frame
 ```
