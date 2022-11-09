@@ -1,6 +1,6 @@
 # R Chi-Square Post Hoc over the Fisher Exact Test
 
-This function separates the lager than 2x2 tables to 2x2 tables for each of combination of rows and columns. Then, implements Fisher's exact test for each 2x2 table. This provides to determine the dependency of variables by considering binary elements. It can be implement for explore specific binary relations after implement chi-square test. 
+This function separates tables lager than 2x2 tables to 2x2 tables for each of combination of rows and columns. Then, implements Fisher's exact test for each 2x2 table. It determines the dependency of variables by considering binary pairs. It can be used for exploring specific binary relations after implement chi-square test. 
 
 # Usage:
 ```
